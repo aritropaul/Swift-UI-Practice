@@ -10,7 +10,7 @@ by [Alice Undersky](https://dribbble.com/undersky)
 
 ### Implementation
 
-
+![Screenshot 2019-05-06 at 6.14.16 PM.png](https://github.com/aritropaul/Swift-UI-Practice/blob/master/Day%202/Screenshot%202019-05-06%20at%206.14.16%20PM.png?raw=true)
 
 
 
